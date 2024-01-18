@@ -65,6 +65,7 @@ API Endpoints
         }
 
 USAGE
+
       Use Postman or a similar tool to test the API endpoints.
       Follow the provided API Endpoints documentation for request and response details.
 
@@ -75,5 +76,6 @@ Error Handling
       If you encounter issues, check the error messages in the response to identify the problem.
 
 Contributing
+
     Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
 
