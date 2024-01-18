@@ -64,15 +64,16 @@ API Endpoints
           "imageUrl": "/api/get_image/:id"
         }
 
-**USAGE**
+USAGE
       Use Postman or a similar tool to test the API endpoints.
       Follow the provided API Endpoints documentation for request and response details.
 
 
-*Error Handling*
+Error Handling
+
       The API handles various error scenarios and provides informative error messages.
       If you encounter issues, check the error messages in the response to identify the problem.
 
-*Contributing*
+Contributing
     Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
 
